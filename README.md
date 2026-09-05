@@ -48,5 +48,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aydin.mutellimov8664@gmail.com)
 
 ```
-
-Növbəti mərhələdə (3-cü dərs bəndi üçün) ilk Data Science layihəniz üçün standart **`README.md` şablonu** hazırlamağımı istəyirsiniz?
